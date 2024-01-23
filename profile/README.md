@@ -28,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Software-RAS/Software-RAS/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
